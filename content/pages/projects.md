@@ -11,12 +11,72 @@ First Project: De-Mining Robot
 
 The goal of this project to produce a robot capable of searching for hidden metal disks ("mines") in a open space. Students design and implement a search algorithm that lets the robot hunt autonomously, and when a mine is found to pause on top of it.
 
-| LABS | TOPICS | SUPPORTING FILES |
-| --- | --- | --- |
-| Lab 1 ([PDF]({{< baseurl >}}/resources/lab1)) | Embedded Robot Controller, I/O Interface, and PWM Amplifiers | Lab Report Form ([PDF]({{< baseurl >}}/resources/lab1_response)) |
-| Lab 2 ([PDF]({{< baseurl >}}/resources/lab2)) | Controller Software and Sensor Inputs | &nbsp; |
-| Lab 3 ([PDF]({{< baseurl >}}/resources/lab3)) | Implement Basic Sensor-Based Controls; Plan Strategy for De-mining Task | &nbsp; |
-| Lab 4 | Refine and Test De-mining Operations |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1 ([PDF]({{< baseurl >}}/resources/lab1))
+{{< tdclose >}}
+{{< tdopen >}}
+Embedded Robot Controller, I/O Interface, and PWM Amplifiers
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Report Form ([PDF]({{< baseurl >}}/resources/lab1_response))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2 ([PDF]({{< baseurl >}}/resources/lab2))
+{{< tdclose >}}
+{{< tdopen >}}
+Controller Software and Sensor Inputs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3 ([PDF]({{< baseurl >}}/resources/lab3))
+{{< tdclose >}}
+{{< tdopen >}}
+Implement Basic Sensor-Based Controls; Plan Strategy for De-mining Task
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+Refine and Test De-mining Operations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _From the Fall 2004 Class - Videos of Final Demonstrations_
 
