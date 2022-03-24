@@ -13,6 +13,6 @@ Exams for Study
 
 2004 Midterm Exam ([PDF]({{< baseurl >}}/resources/midterm_04-1))
 
-Practice Final Exam 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practicefinal1-1))
+Practice Final Exam 1 ([PDF]({{< baseurl >}}/resources/practicefinal1-1))
 
-Practice Final Exam 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practicefinal2-1))
+Practice Final Exam 2 ([PDF]({{< baseurl >}}/resources/practicefinal2-1))
